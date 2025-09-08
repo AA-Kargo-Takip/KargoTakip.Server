@@ -1,11 +1,6 @@
 # 2025 Yılı Clean Architecture Setup
 
 Bu repoda, 2025 yılı için projelerimizde başlangıç olarak kullanabileceğiniz modern ve modüler bir Clean Architecture yapısı sunulmaktadır.
-
-## Video Linki:
-1. https://youtube.com/live/byiN2UZXXJQ
-2. https://youtube.com/live/kFiBEheyNOw
-
 ## Proje İçeriği
 
 ### Mimari Yapı
